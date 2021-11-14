@@ -49,10 +49,12 @@ container__three {
 .header{
 	width: 100%;
 	padding:1% 0%;
+	background-color: #FFF8DC;
 }
 .hader__inner {
 	display: flex;
 	justify-content: space-around;
+	background-color: #FFF8DC;
 }
 /*logotip in heder*/
 .header__logo {
@@ -61,7 +63,6 @@ container__three {
 	color: black;
 	position: relative;
 	background-color: #FFF8DC;
-	
 }
 .header__icon {
 	color: black;
@@ -185,11 +186,12 @@ container__three {
 /*menu*/
 .secta__menu {
 	background-color: #FFF8DC;
-	margin: -1% 10%;
+	
 }
 .menu {
 	width: 100%;
 	position: 0% 5%;
+	background-color: #FFF8DC;
 }
 .menu__item {
 	display: flex;
